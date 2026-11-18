@@ -26,7 +26,7 @@ const myFuction = function(){
 }
 console.log(typeof anotherId)
 
-Return type of variables in JavaScript
+/*Return type of variables in JavaScript
 1) Primitive Datatypes
        Number => number
        String  => string
@@ -40,3 +40,4 @@ Return type of variables in JavaScript
        Arrays  =>  object
        Function  =>  function
        Object  =>  object
+*/
